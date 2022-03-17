@@ -1,0 +1,10 @@
+[user]
+	me = abc
+	name = rajat
+	email = rajathk1996@gmail.com
+[color]
+	ui = auto
+	status = auto
+	interactive = auto
+	diff = auto
+	branch = auto
